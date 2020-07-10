@@ -11,8 +11,8 @@ def add_element_to_end_of_array(array, element)
   add_element_to_end_of_array.push(4)
 end
 
-def add_element_to_start_of_array([6, 7, 8,], 4)
-  add_element_to_start_of_array = [6, 7, 8,]
+def add_element_to_start_of_array(array, element)
+  add_element_to_start_of_array = [6, 7, 8]
   add_element_to_start_of_array.unshift(5)
 end
 
